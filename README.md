@@ -1,6 +1,7 @@
 # Nike Landing Page
 
 This is a responsive landing page featuring a modern and visually appealing user interface built using React, Vite, and Tailwind CSS.
+This project serves as a multipurpose template that can be customized to suit various purposes. If you are seeking a modern web presence, you can easily adapt this landing page to your unique needs.
 <br> <br>
 You can view the live demo [here](https://nike--landing-page.vercel.app/).
 
